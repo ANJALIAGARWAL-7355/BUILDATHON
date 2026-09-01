@@ -39,3 +39,4 @@ yarn-debug.log*
 .tmp/
 temp/
 *.temp
+.vercel
