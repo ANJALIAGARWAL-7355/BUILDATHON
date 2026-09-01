@@ -1,0 +1,8 @@
+backend/
+.git/
+.env
+.env.local
+node_modules/
+**/__pycache__
+**/*.pyc
+*.db
